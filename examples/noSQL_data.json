@@ -1,0 +1,17 @@
+[
+  {
+    "order_id": "1",
+    "customer": "Alice",
+    "date": "2025-11-28"
+  },
+  {
+    "order_id": "1",
+    "product": "Laptop",
+    "qty": "1"
+  },
+  {
+    "order_id": "1",
+    "product": "Mouse",
+    "qty": "2"
+  }
+]
